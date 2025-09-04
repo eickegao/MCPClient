@@ -1,7 +1,12 @@
 # TODO:
 
-- [x] todo_move_1: 移动Flutter项目文件从Client/mcp_client到Client目录 (priority: High)
-- [x] todo_move_4: 测试项目是否能正常运行 (priority: High)
-- [x] todo_move_2: 删除空的mcp_client目录 (priority: Medium)
-- [x] todo_move_3: 更新项目路径配置和引用 (priority: Medium)
-- [ ] todo_move_5: 更新Git提交以反映目录结构变化 (**IN PROGRESS**) (priority: Medium)
+- [x] todo_server_1: 查看技术架构文档了解MCP服务器需求 (priority: High)
+- [x] todo_server_2: 在Server目录下初始化Node.js项目 (priority: High)
+- [x] todo_server_3: 创建Express HTTP服务器基础架构 (priority: High)
+- [x] todo_server_4: 实现MCP服务管理功能（安装、配置、启动、停止） (priority: High)
+- [x] todo_server_5: 创建RESTful API接口供客户端调用 (priority: Medium)
+- [x] todo_server_6: 实现WebSocket支持实时通信 (priority: Medium)
+- [x] todo_server_7: 添加服务注册中心和健康检查 (priority: Medium)
+- [x] todo_server_8: 实现动态加载和管理多个MCP服务 (priority: Medium)
+- [x] todo_server_9: 添加完整的错误处理和日志记录 (priority: Low)
+- [x] todo_server_10: 测试服务器功能并与客户端集成 (priority: Low)

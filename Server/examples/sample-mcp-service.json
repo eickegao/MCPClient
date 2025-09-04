@@ -1,0 +1,59 @@
+{
+  "id": "sample-calculator",
+  "name": "Sample Calculator Service",
+  "description": "A simple calculator MCP service for demonstration",
+  "version": "1.0.0",
+  "author": "MCP Server Team",
+  "executable": {
+    "command": "node",
+    "args": ["calculator-service.js"],
+    "cwd": "./examples/services/calculator"
+  },
+  "capabilities": {
+    "tools": [
+      {
+        "name": "add",
+        "description": "Add two numbers",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "a": { "type": "number", "description": "First number" },
+            "b": { "type": "number", "description": "Second number" }
+          },
+          "required": ["a", "b"]
+        }
+      },
+      {
+        "name": "multiply",
+        "description": "Multiply two numbers",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "a": { "type": "number", "description": "First number" },
+            "b": { "type": "number", "description": "Second number" }
+          },
+          "required": ["a", "b"]
+        }
+      }
+    ],
+    "resources": [],
+    "prompts": []
+  },
+  "configuration": {
+    "environment": {
+      "NODE_ENV": "development"
+    },
+    "timeout": 30000,
+    "retries": 3,
+    "healthCheck": {
+      "enabled": true,
+      "interval": 60000,
+      "timeout": 5000
+    }
+  },
+  "dependencies": {
+    "node": ">=18.0.0"
+  },
+  "tags": ["calculator", "math", "demo"],
+  "category": "utility"
+}

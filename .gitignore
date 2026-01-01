@@ -221,3 +221,123 @@ local.properties
 # Uncomment this line if you wish to ignore the project description file.
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework
+Server/dist-electron/builder-debug.yml
+Server/dist-electron/builder-effective-config.yaml
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Electron Framework
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Helpers
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Libraries
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Resources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libEGL.dylib
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libGLESv2.dylib
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libvk_swiftshader.dylib
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/vk_swiftshader_icd.json
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/af.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_100_percent.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/chrome_200_percent.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/resources.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ur.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/v8_context_snapshot.arm64.bin
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Electron Framework.framework/Versions/Current
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Mantle
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Resources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Versions/A/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Mantle.framework/Versions/Current
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (GPU).app/Contents/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (GPU).app/Contents/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (GPU).app/Contents/MacOS/MCP Server Helper (GPU)
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (GPU).app/Contents/PkgInfo
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Plugin).app/Contents/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Plugin).app/Contents/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Plugin).app/Contents/MacOS/MCP Server Helper (Plugin)
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Plugin).app/Contents/PkgInfo
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Renderer).app/Contents/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Renderer).app/Contents/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Renderer).app/Contents/MacOS/MCP Server Helper (Renderer)
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper (Renderer).app/Contents/PkgInfo
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper.app/Contents/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper.app/Contents/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper.app/Contents/MacOS/MCP Server Helper
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/MCP Server Helper.app/Contents/PkgInfo
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/ReactiveObjC
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/Resources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/ReactiveObjC
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/Resources/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/ReactiveObjC.framework/Versions/Current
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Resources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Squirrel
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Versions/A/_CodeSignature/CodeResources
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Frameworks/Squirrel.framework/Versions/Current
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Info.plist
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/MacOS/MCP Server
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/PkgInfo
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Resources/app.asar
+Server/dist-electron/mac-arm64/MCP Server.app/Contents/Resources/electron.icns
+Server/dist-electron/MCP Server-1.0.0-arm64.dmg
+Server/dist-electron/MCP Server-1.0.0-arm64.dmg.blockmap
